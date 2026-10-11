@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alvin 👋
+# Hi, I'm Nanochips 👋
 
 ### Builder · IoT explorer · Product tinkerer
 
